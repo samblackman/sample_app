@@ -1,1 +1,117 @@
+$navbarBackground:                #000 ;
+$navbarBackgroundHighlight:       #000 ;
+$navbarText:                      white ;
+$navbarLinkColor:                 #999 ;
+$navbarLinkColorHover:            white ;		
+$navbarSearchPlaceholderColor:    white ;
+
 @import "bootstrap";
+
+/* Bootstrap mod */
+
+// .navbar-inner {
+//   background-color: #000; /* background color will be black for all browsers */
+//   background-image: none;
+//   background-repeat: no-repeat;
+//   filter: none;
+//   color: white;
+// }
+
+/* Universal */
+
+html{
+	overflow-y: scroll;
+}
+
+body {
+	padding-top: 60px;
+}
+
+section {
+	overflow: auto;
+}
+
+textarea {
+	resize: vertical;
+}
+
+.center {
+	text-align: center;
+	h1 {
+		margin-bottom: 10px;
+	}
+}
+
+
+/* Typography */
+
+h1, h2, h3, h4, h5, h6{
+	line-height: 1;
+}
+
+h1 {
+	font-size: 3em;
+	letter-spacing: -2px;
+	margin-bottom:30px;
+	text-align: center;
+}
+
+h2 {
+	font-size: 1.7em;
+	letter-spacing: -1px;
+	margin-bottom:30px;
+	text-align: normal;	
+	color: $grayLight;
+}
+
+p {
+	font-size:1.1em;
+	line-height: 1.7em;
+}
+
+#logo {
+	float: left;
+	margin-right: 10px;
+	font-size: 1.7em;
+	color: white;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	padding-top: 9px;
+	font-weight: bold;
+	line-height: 1;
+	&:hover {
+		text-decoration: none;
+		color: white;
+	}	
+}
+
+
+
+/* Footer */
+
+footer {
+	margin-top: 45px;
+	padding-top: 5px;
+	border-top: 1px solid $grayLight;
+	color: $grayLight;
+	a {
+		color: $gray;
+		&:hover {
+			color: $grayDarker;
+		}
+	}
+	small {
+		float: left;
+	}
+	ul {
+		float: right;
+		list-style: none;
+		li {
+			float: left;
+			margin-left: 10px;
+		}
+	}
+}
+
+
+
