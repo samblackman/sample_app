@@ -1,0 +1,1212 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"have",
+				"have_link"
+			],
+			[
+				"user",
+				"user_path"
+			],
+			[
+				"sign",
+				"sign_in"
+			],
+			[
+				"have_",
+				"have_link"
+			],
+			[
+				"clic",
+				"click_link"
+			],
+			[
+				"click",
+				"click_button"
+			],
+			[
+				"edit",
+				"edit_user_path"
+			],
+			[
+				"wo",
+				"wrong_user"
+			],
+			[
+				"wrong",
+				"wrong_user"
+			],
+			[
+				"new_",
+				"new_email"
+			],
+			[
+				"aler",
+				"alert-success"
+			],
+			[
+				"al",
+				"alert"
+			],
+			[
+				"click_",
+				"click_link"
+			],
+			[
+				"signin",
+				"signin_path"
+			],
+			[
+				"se",
+				"section	Tag"
+			],
+			[
+				"gravata",
+				"gravatar_id"
+			],
+			[
+				"pas",
+				"password_confirmation"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"shou",
+				"should_not"
+			],
+			[
+				"res",
+				"respond_to"
+			],
+			[
+				"should",
+				"should_not"
+			],
+			[
+				"invali",
+				"invalid_address"
+			],
+			[
+				"desc",
+				"describe"
+			],
+			[
+				"be",
+				"be_valid"
+			],
+			[
+				"About",
+				"About"
+			],
+			[
+				"Blo",
+				"blogTemplate"
+			],
+			[
+				"margin-",
+				"margin-top"
+			],
+			[
+				"pre",
+				"preventDefault"
+			],
+			[
+				"contact",
+				"contactForm"
+			],
+			[
+				"font",
+				"font"
+			],
+			[
+				"input",
+				"input	input - submit"
+			],
+			[
+				"label",
+				"label	<label>"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"border",
+				"border-top"
+			],
+			[
+				"color",
+				"colour-clear"
+			],
+			[
+				"colo",
+				"colour-main"
+			],
+			[
+				"colour-",
+				"colour-dark2"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"possibl",
+				"possible_chars"
+			],
+			[
+				"confirmatio",
+				"confirmation_code"
+			],
+			[
+				"email",
+				"email_changed"
+			],
+			[
+				"passwor",
+				"password_confirmation"
+			],
+			[
+				"in",
+				"integer"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"ass",
+				"assert_redirected_to"
+			],
+			[
+				"assert_",
+				"assert_equal"
+			],
+			[
+				"car",
+				"cart_id"
+			],
+			[
+				"sub",
+				"subject"
+			],
+			[
+				"asse",
+				"assert_match"
+			],
+			[
+				"one",
+				"OrderNotifierTest"
+			],
+			[
+				"action",
+				"action_mailer"
+			],
+			[
+				"LINE",
+				"line_items"
+			],
+			[
+				"total",
+				"total_price"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/samblackman/Dropbox/rails_projects/happydays/app/assets/stylesheets/custom.css.scss",
+			"settings":
+			{
+				"buffer_size": 2324,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/samblackman/Dropbox/rails_projects/happydays/app/views/layouts/application.html.erb",
+			"settings":
+			{
+				"buffer_size": 627,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/samblackman/Dropbox/rails_projects/happydays/app/views/layouts/_header.html.erb",
+			"settings":
+			{
+				"buffer_size": 507,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/samblackman/Dropbox/rails_projects/happydays/app/views/layouts/_footer.html.erb",
+			"settings":
+			{
+				"buffer_size": 217,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				"",
+				"Bookmarks: Clear All"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"lor",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"snippe",
+				"Snippet: jQuery Plugin Boilerplate Minified"
+			],
+			[
+				"snipp",
+				"Snippet: mousemove"
+			],
+			[
+				"jqu",
+				"Set Syntax: jQuery (JavaScript)"
+			],
+			[
+				"det",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"jq",
+				"Set Syntax: jQuery (JavaScript)"
+			],
+			[
+				"Snippet: jq",
+				"Snippet: jQuery.inArray"
+			],
+			[
+				"rails",
+				"Simple Rails Navigator: List models"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pacl",
+				"Package Control: List Packages"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"colo",
+				"Color Picker: Insert Color"
+			],
+			[
+				"partia",
+				"Rails Partial: Create Partial from Text"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"git",
+				"Set Syntax: Git Graph"
+			],
+			[
+				"g",
+				"Git: Commit history"
+			],
+			[
+				"na",
+				"Simple Rails Navigator: List fixtures"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 566.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/samblackman/Dropbox/rails_projects/happydays/config/routes.rb",
+		"/Users/samblackman/Dropbox/rails_projects/happydays/app/helpers/application_helper.rb",
+		"/Users/samblackman/Dropbox/rails_projects/happydays/app/views/layouts/_footer.html.erb",
+		"/Users/samblackman/Dropbox/rails_projects/happydays/app/views/layouts/_shim.html.erb",
+		"/Users/samblackman/Dropbox/rails_projects/happydays/app/views/layouts/_header.html.erb",
+		"/Users/samblackman/Dropbox/rails_projects/sample_app/app/views/users/index.html.erb",
+		"/Users/samblackman/Dropbox/rails_projects/sample_app/spec/factories.rb",
+		"/Users/samblackman/Dropbox/rails_projects/sample_app/lib/tasks/sample_data.rake",
+		"/Users/samblackman/Dropbox/rails_projects/sample_app/app/views/users/_user.html.erb",
+		"/Users/samblackman/Dropbox/rails_projects/sample_app/app/models/user.rb",
+		"/Users/samblackman/Dropbox/rails_projects/sample_app/spec/models/user_spec.rb",
+		"/Users/samblackman/Dropbox/rails_projects/sample_app/app/views/layouts/_header.html.erb",
+		"/Users/samblackman/Dropbox/rails_projects/sample_app/app/controllers/users_controller.rb",
+		"/Users/samblackman/Dropbox/rails_projects/sample_app/db/migrate/20130409200951_add_admin_to_users.rb",
+		"/Users/samblackman/Dropbox/rails_projects/sample_app/spec/spec_helper.rb",
+		"/Users/samblackman/Dropbox/rails_projects/sample_app/app/assets/stylesheets/custom.css.scss",
+		"/Users/samblackman/Dropbox/rails_projects/sample_app/app/controllers/sessions_controller.rb",
+		"/Users/samblackman/Dropbox/rails_projects/sample_app/spec/support/utilities.rb",
+		"/Users/samblackman/Dropbox/rails_projects/sample_app/app/views/users/edit.html.erb",
+		"/Users/samblackman/Dropbox/rails_projects/sample_app/spec/requests/user_pages_spec.rb",
+		"/Users/samblackman/Dropbox/rails_projects/sample_app/app/views/users/new.html.erb",
+		"/Users/samblackman/Dropbox/rails_projects/sample_app/app/helpers/sessions_helper.rb",
+		"/Users/samblackman/Dropbox/rails_projects/sample_app/features/signing_in.feature",
+		"/Users/samblackman/Dropbox/rails_projects/sample_app/config/routes.rb",
+		"/Users/samblackman/Dropbox/rails_projects/sample_app/features/step_definitions/authentication_steps.rb",
+		"/Users/samblackman/Dropbox/rails_projects/sample_app/spec/requests/authentication_pages_spec.rb",
+		"/Users/samblackman/Dropbox/rails_projects/sample_app/app/assets/javascripts/application.js",
+		"/Users/samblackman/Dropbox/rails_projects/sample_app/spec/requests/static_pages_spec.rb",
+		"/Users/samblackman/Dropbox/rails_projects/sample_app/app/views/static_pages/home.html.erb",
+		"/Users/samblackman/Dropbox/rails_projects/sample_app/app/views/layouts/application.html.erb",
+		"/Users/samblackman/Dropbox/rails_projects/sample_app/app/controllers/application_controller.rb",
+		"/Users/samblackman/Dropbox/rails_projects/sample_app/db/migrate/20130320054223_add_remember_token_to_users.rb",
+		"/Users/samblackman/Dropbox/rails_projects/sample_app/app/helpers/application_helper.rb",
+		"/Users/samblackman/Dropbox/rails_projects/sample_app/app/views/sessions/new.html.erb",
+		"/Users/samblackman/Dropbox/rails_projects/sample_app/Gemfile",
+		"/Users/samblackman/Dropbox/rails_projects/sample_app/app/controllers/static_pages_controller.rb",
+		"/Users/samblackman/Dropbox/rails_projects/sample_app/config/environments/production.rb",
+		"/Users/samblackman/Dropbox/rails_projects/sample_app/app/views/users/show.html.erb",
+		"/Users/samblackman/Dropbox/rails_projects/sample_app/app/helpers/users_helper.rb",
+		"/Users/samblackman/Dropbox/rails_projects/sample_app/config/locales/en.yml",
+		"/Users/samblackman/Dropbox/rails_projects/sample_app/config/environments/test.rb",
+		"/Users/samblackman/Dropbox/rails_projects/sample_app/app/views/static_pages/about.html.erb",
+		"/Users/samblackman/Dropbox/rails_projects/sample_app/db/migrate/20130218061524_add_password_digest_to_users.rb",
+		"/Users/samblackman/Dropbox/rails_projects/sample_app/db/schema.rb",
+		"/Users/samblackman/Dropbox/rails_projects/sample_app/db/migrate/20130218055639_add_index_to_users_email.rb",
+		"/Users/samblackman/Dropbox/rails_projects/sample_app/db/migrate/20130212055452_create_users.rb",
+		"/Users/samblackman/Dropbox/rails_projects/sample_app/spec/helpers/application_helper_spec.rb",
+		"/Users/samblackman/Dropbox/rails_projects/sample_app/app/views/layouts/_footer.html.erb",
+		"/Users/samblackman/Dropbox/rails_projects/sample_app/app/views/layouts/_shim.html.erb",
+		"/Users/samblackman/Dropbox/rails_projects/sample_app/app/views/static_pages/contact.html.erb",
+		"/Users/samblackman/Dropbox/rails_projects/sample_app/app/views/static_pages/help.html.erb",
+		"/Users/samblackman/Library/Application Support/Sublime Text 2/Packages/User/RubyTest.sublime-settings",
+		"/Users/samblackman/Dropbox/rails_projects/sample_app/.rspec",
+		"/Users/samblackman/Dropbox/rails_projects/sample_app/Guardfile",
+		"/Users/samblackman/Library/Application Support/Sublime Text 2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
+		"/Users/samblackman/Dropbox/rails_projects/sample_app/.gitignore",
+		"/Users/samblackman/Dropbox/rails_projects/sample_app/README.md",
+		"/Users/samblackman/Dropbox/rails_projects/sample_app/public/hello.html",
+		"/Users/samblackman/Dropbox/rails_projects/mopfinder/app/assets/stylesheets/custom.css.scss",
+		"/Users/samblackman/Dropbox/jQuery/index8 Custom Effect Methods.html",
+		"/Users/samblackman/CloudStation/rails_projects/mopfinder/l",
+		"/Users/samblackman/Dropbox/jQuery/index2.html",
+		"/Users/samblackman/Dropbox/jQuery/index.html",
+		"/Users/samblackman/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/samblackman/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/samblackman/CloudStation/rails_projects/mopfinder/app/views/layouts/_footer.html.erb",
+		"/Users/samblackman/CloudStation/rails_projects/mopfinder/app/views/static_pages/home.html.erb",
+		"/Users/samblackman/RAILS_PROJECTS/MOPFINDER/app/controllers/users_controller.rb",
+		"/Users/samblackman/Library/Application Support/Sublime Text 2/Packages/User/Ruby.sublime-settings",
+		"/Users/samblackman/RAILS_PROJECTS/MOPFINDER/app/models/area.rb",
+		"/Users/samblackman/RAILS_PROJECTS/MOPFINDER/app/models/user.rb",
+		"/Users/samblackman/RAILS_PROJECTS/MOPFINDER/app/controllers/sessions_controller.rb",
+		"/Users/samblackman/RAILS_PROJECTS/MOPFINDER/app/views/layouts/application.html.erb",
+		"/Users/samblackman/RAILS_PROJECTS/MOPFINDER/db/migrate/20121122053133_change_confirmation_code_to_string.rb",
+		"/Users/samblackman/RAILS_PROJECTS/MOPFINDER/app/views/sessions/create.html.erb",
+		"/Users/samblackman/RAILS_PROJECTS/MOPFINDER/log/development.log",
+		"/Users/samblackman/RAILS_PROJECTS/MOPFINDER/app/views/static_pages/_flash.html.erb",
+		"/Users/samblackman/RAILS_PROJECTS/MOPFINDER/app/views/static_pages/about.html.erb",
+		"/Users/samblackman/RAILS_PROJECTS/MOPFINDER/app/views/static_pages/advice.html.erb",
+		"/Users/samblackman/RAILS_PROJECTS/MOPFINDER/app/views/static_pages/blog.html.erb",
+		"/Users/samblackman/RAILS_PROJECTS/MOPFINDER/app/views/static_pages/home.html.erb",
+		"/Users/samblackman/RAILS_PROJECTS/MOPFINDER/config/environments/development.rb",
+		"/Users/samblackman/RAILS_PROJECTS/MOPFINDER/app/models/user_observer.rb",
+		"/Users/samblackman/RAILS_PROJECTS/MOPFINDER/config/application.rb",
+		"/Users/samblackman/RAILS_PROJECTS/MOPFINDER/app/mailers/user_notifier.rb",
+		"/Users/samblackman/RAILS_PROJECTS/MOPFINDER/config/routes.rb",
+		"/Users/samblackman/RAILS_PROJECTS/MOPFINDER/app/views/user_notifier/validate.text.erb",
+		"/Users/samblackman/rails_projects/mopfinder/app/models/user_observer",
+		"/Users/samblackman/RAILS_PROJECTS/MOPFINDER/config/environments/production.rb",
+		"/Users/samblackman/rails_projects/mopfinder/Gemfile",
+		"/Users/samblackman/rails_projects/mopfinder/db/migrate/20121111163835_fix_towns.rb",
+		"/Users/samblackman/rails_projects/mopfinder/lib/tasks/town_import.rake",
+		"/Users/samblackman/RAILS_PROJECTS/MOPFINDER/db/schema.rb",
+		"/Users/samblackman/RAILS_PROJECTS/MOPFINDER/app/views/users/_form.html.erb",
+		"/Users/samblackman/RAILS_PROJECTS/MOPFINDER/app/views/users/_new_user_form.html.erb",
+		"/Users/samblackman/RAILS_PROJECTS/MOPFINDER/app/views/users/_new_cleaner_form.html.erb",
+		"/Users/samblackman/RAILS_PROJECTS/MOPFINDER/db/migrate/20121029092224_rename_service_id.rb",
+		"/Users/samblackman/RAILS_PROJECTS/MOPFINDER/app/views/services/new.html.erb",
+		"/Users/samblackman/RAILS_PROJECTS/MOPFINDER/app/controllers/services_controller.rb",
+		"/Users/samblackman/RAILS_PROJECTS/MOPFINDER/app/controllers/register_controller.rb",
+		"/Users/samblackman/RAILS_PROJECTS/MOPFINDER/app/controllers/service_options_controller.rb",
+		"/Users/samblackman/RAILS_PROJECTS/MOPFINDER/app/views/service_options/show.html.erb",
+		"/Users/samblackman/RAILS_PROJECTS/MOPFINDER/app/views/service_options/index.html.erb",
+		"/Users/samblackman/RAILS_PROJECTS/MOPFINDER/app/views/service_options/edit.html.erb",
+		"/Users/samblackman/RAILS_PROJECTS/MOPFINDER/app/views/service_options/_form.html.erb",
+		"/Users/samblackman/RAILS_PROJECTS/MOPFINDER/app/models/service.rb",
+		"/Users/samblackman/RAILS_PROJECTS/MOPFINDER/app/models/service_option.rb",
+		"/Users/samblackman/RAILS_PROJECTS/MOPFINDER/db/migrate/20121029084928_rename_my_table.rb",
+		"/Users/samblackman/RAILS_PROJECTS/MOPFINDER/app/views/user_services/new.html.erb",
+		"/Users/samblackman/RAILS_PROJECTS/MOPFINDER/app/controllers/user_services_controller.rb",
+		"/Users/samblackman/RAILS_PROJECTS/MOPFINDER/app/models/user_service.rb",
+		"/Users/samblackman/rails_projects/mopfinder/app/views/user_services/new.html.erb",
+		"/Users/samblackman/RAILS_PROJECTS/mopfinder/app/controllers/register_controller.rb",
+		"/Users/samblackman/RAILS_PROJECTS/mopfinder/app/models/service.rb",
+		"/Users/samblackman/RAILS_PROJECTS/mopfinder/app/models/user_service.rb",
+		"/Users/samblackman/RAILS_PROJECTS/mopfinder/app/models/user.rb",
+		"/Users/samblackman/RAILS_PROJECTS/mopfinder/app/models/user_service",
+		"/Users/samblackman/RAILS_PROJECTS/mopfinder/app/models/area.rb",
+		"/Users/samblackman/RAILS_PROJECTS/mopfinder/config/routes.rb",
+		"/Users/samblackman/RAILS_PROJECTS/mopfinder/app/views/services/show.html.erb",
+		"/Users/samblackman/RAILS_PROJECTS/mopfinder/app/views/services/new.html.erb",
+		"/Users/samblackman/RAILS_PROJECTS/mopfinder/app/views/services/index.html.erb",
+		"/Users/samblackman/RAILS_PROJECTS/mopfinder/app/views/services/_form.html.erb",
+		"/Users/samblackman/RAILS_PROJECTS/mopfinder/app/assets/stylesheets/custom.css.scss",
+		"/Users/samblackman/RAILS_PROJECTS/mopfinder/app/views/shared/_progress_display.html.erb",
+		"/Users/samblackman/RAILS_PROJECTS/mopfinder/app/views/users/_form.html.erb",
+		"/Users/samblackman/RAILS_PROJECTS/mopfinder/db/schema.rb",
+		"/Users/samblackman/RAILS_PROJECTS/mopfinder/db/migrate/20121022044505_user_areas.rb"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/samblackman/RAILS_PROJECTS/mopfinder/app/views/static_pages"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"orange",
+			"delete",
+			"do",
+			"'/static_pages/home'",
+			"gray",
+			"#fff",
+			"#222",
+			"#555",
+			"#999",
+			"end",
+			"guardfile",
+			"/",
+			"();\n",
+			"mail",
+			"service",
+			"services",
+			"user",
+			"\">\n",
+			"</br>",
+			"_flash",
+			"'%>\n",
+			"php",
+			"<Virt",
+			"NameVirtualHost",
+			"product",
+			"cart"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"shade",
+			"root_path",
+			"white",
+			"$grayDarker",
+			"$gray",
+			"$grayLight",
+			"service_option",
+			"service_options",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/samblackman/Dropbox/rails_projects/happydays/app/assets/stylesheets/custom.css.scss",
+					"settings":
+					{
+						"buffer_size": 2324,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								311,
+								311
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/samblackman/Dropbox/rails_projects/happydays/app/views/layouts/application.html.erb",
+					"settings":
+					{
+						"buffer_size": 627,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								511,
+								511
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/samblackman/Dropbox/rails_projects/happydays/app/views/layouts/_header.html.erb",
+					"settings":
+					{
+						"buffer_size": 507,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								33,
+								33
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/samblackman/Dropbox/rails_projects/happydays/app/views/layouts/_footer.html.erb",
+					"settings":
+					{
+						"buffer_size": 217,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								28,
+								28
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.463822454193,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 302.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"data",
+				"lib/tasks/sample_data.rake"
+			],
+			[
+				"fac",
+				"spec/factories.rb"
+			],
+			[
+				"sampl",
+				"lib/tasks/sample_data.rake"
+			],
+			[
+				"spec",
+				"spec/spec_helper.rb"
+			],
+			[
+				"fa",
+				"spec/factories.rb"
+			],
+			[
+				"sess",
+				"app/controllers/sessions_controller.rb"
+			],
+			[
+				"utli",
+				"spec/support/utilities.rb"
+			],
+			[
+				"sessi",
+				"app/helpers/sessions_helper.rb"
+			],
+			[
+				"ut",
+				"spec/support/utilities.rb"
+			],
+			[
+				"new.",
+				"app/views/users/new.html.erb"
+			],
+			[
+				"new",
+				"app/views/users/new.html.erb"
+			],
+			[
+				"uc",
+				"app/controllers/users_controller.rb"
+			],
+			[
+				"sh",
+				"app/helpers/sessions_helper.rb"
+			],
+			[
+				"sc",
+				"app/controllers/sessions_controller.rb"
+			],
+			[
+				"ro",
+				"config/routes.rb"
+			],
+			[
+				"authen",
+				"spec/requests/authentication_pages_spec.rb"
+			],
+			[
+				"user",
+				"app/helpers/users_helper.rb"
+			],
+			[
+				"users",
+				"app/helpers/users_helper.rb"
+			],
+			[
+				"test.rb",
+				"config/environments/test.rb"
+			],
+			[
+				"abou",
+				"app/views/static_pages/about.html.erb"
+			],
+			[
+				"ups",
+				"spec/requests/user_pages_spec.rb"
+			],
+			[
+				"",
+				"Gemfile"
+			],
+			[
+				"create",
+				"db/migrate/20130212055452_create_users.rb"
+			],
+			[
+				"route",
+				"config/routes.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 261.0,
+	"status_bar_visible": true
+}
